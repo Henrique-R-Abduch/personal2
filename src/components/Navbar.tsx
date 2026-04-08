@@ -28,7 +28,7 @@ const Navbar = () => {
     >
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 lg:px-10">
         <a href="#" className="font-display text-sm font-semibold tracking-[0.2em] text-foreground uppercase">
-          RUAN <span className="text-muted-foreground">//</span> RUBENS
+          ALEX <span className="text-muted-foreground">//</span> DURAO
         </a>
 
         <div className="hidden items-center gap-8 md:flex">

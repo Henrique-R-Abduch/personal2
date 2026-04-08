@@ -21,7 +21,7 @@ const Manifesto = () => {
           className="mt-12"
         >
           <p className="font-display text-2xl leading-relaxed tracking-tight text-muted-foreground md:text-3xl lg:text-4xl">
-            Mais de 5000 alunos inspirados em todo o Brasil ficando mais fortes e definidos. Consultoria séria, planos acessíveis e <span className="text-foreground">resultados comprovados</span>. Aqui você não treina sozinho.
+            Consultoria online baseada em <span className="text-foreground">ciência e biomecânica</span>. Pós-graduado em Biomecânica, Cinesiologia e Psicopatologia. Seu treino não é genérico — é <span className="text-foreground">personalizado, técnico e efetivo</span>.
           </p>
         </motion.div>
       </div>

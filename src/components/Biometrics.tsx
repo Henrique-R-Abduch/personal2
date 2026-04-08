@@ -1,16 +1,16 @@
 import { motion } from "framer-motion";
 
 const stats = [
-  { label: "Alunos em Todo Brasil", value: "5000+" },
-  { label: "Planos Acessíveis", value: "A partir de R$50" },
-  { label: "Suporte 24/7", value: "WhatsApp" },
+  { label: "Pós-graduações", value: "2 Completas" },
+  { label: "Especialidade", value: "Biomecânica" },
+  { label: "Suporte Online", value: "24/7" },
 ];
 
 const mesocycles = [
   { id: "01", name: "Avaliação", distance: "Semana 0" },
   { id: "02", name: "Adaptação", distance: "Semanas 1-4" },
   { id: "03", name: "Progressão", distance: "Semanas 5-8" },
-  { id: "04", name: "Resultado", distance: "Semanas 9-12" },
+  { id: "04", name: "Consolidação", distance: "Semanas 9-12" },
 ];
 
 const Biometrics = () => {
@@ -28,10 +28,10 @@ const Biometrics = () => {
           <div>
             <div className="mb-3 flex items-center gap-3">
               <div className="h-2 w-2 rounded-full bg-green-400 animate-pulse" />
-              <span className="font-mono-label text-muted-foreground/60">Consultoria Online</span>
+              <span className="font-mono-label text-muted-foreground/60">Baseado em Ciência</span>
             </div>
             <h2 className="font-display text-3xl font-semibold tracking-tight text-foreground md:text-4xl">
-              MÉTODO RUAN RUBENS
+              MÉTODO ALEX DURAO
             </h2>
           </div>
           <div className="flex items-center gap-6">

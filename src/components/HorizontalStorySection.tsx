@@ -6,40 +6,40 @@ gsap.registerPlugin(ScrollTrigger);
 
 const slides = [
   {
-    eyebrow: "PASSO 01",
+    eyebrow: "ETAPA 01",
     title: "AVALIAÇÃO",
     description:
-      "Começamos entendendo seu objetivo, rotina e histórico. Sem avaliação certa, não há plano efetivo. Mapeamos tudo para montar sua consultoria.",
+      "Começamos com avaliação biomecânica completa. Analisamos seu movimento, limitações e potencial. Sem dados corretos, não há plano eficiente.",
     image:
       "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1600&auto=format&fit=crop",
     bg: "#050505",
-    cardLabel: "COM RUAN",
+    cardLabel: "COM ALEX",
     cardText:
-      "Avaliação completa e criação de plano personalizado baseado no seu objetivo real.",
+      "Avaliação técnica baseada em ciência para entender seu corpo e criar o plano perfeito.",
   },
   {
-    eyebrow: "PASSO 02",
+    eyebrow: "ETAPA 02",
     title: "TREINO",
     description:
-      "Plano de treino personalizado, vídeos explicativos e suporte 24/7 no WhatsApp. Você tem toda orientação que precisa para treinar certo.",
+      "Seu plano é baseado em biomecânica e ciência. Cada exercício tem propósito. Acompanhamento semanal, vídeos técnicos e suporte 24/7",
     image:
       "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1600&auto=format&fit=crop",
     bg: "#0A0A0A",
-    cardLabel: "PLANO RR",
+    cardLabel: "PROTOCOLO AD",
     cardText:
-      "Treino estruturado, orientação e suporte direto. Você nunca treina sozinho.",
+      "Treino científico, periodizado e personalizado. Você tem orientação técnica em cada detalhe.",
   },
   {
-    eyebrow: "PASSO 03",
-    title: "RESULTADO",
+    eyebrow: "ETAPA 03",
+    title: "TRANSFORMAÇÃO",
     description:
-      "Com consistência e orientação correta, o corpo responde. Definição, ganho e força reais. Isso é transformação que você vê no espelho.",
+      "Resultado real, sustentável e duradouro. Força, definição e saúde em alta. Seu corpo responde porque o treino é eficiente.",
     image:
       "https://images.unsplash.com/photo-1516433031322-5b8a30b5d2d0?q=80&w=1600&auto=format&fit=crop",
     bg: "#050505",
-    cardLabel: "SEU GANHO",
+    cardLabel: "SEU RESULTADO",
     cardText:
-      "Corpo transformado, força aumentada, imagem que você sempre quis. De verdade.",
+      "Transformação corporal e mental. Força em alta, definição clara, saúde otimizada.",
   },
 ];
 

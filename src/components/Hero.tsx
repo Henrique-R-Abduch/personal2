@@ -92,7 +92,7 @@ const Hero = () => {
             data-hero-title-left
             className="font-['Space_Grotesk',sans-serif] text-[18vw] leading-[0.82] tracking-[-0.07em] text-white md:text-[15vw]"
           >
-            CONSULTORIA
+            TREINO
           </h1>
         </div>
 
@@ -101,7 +101,7 @@ const Hero = () => {
             data-hero-title-right
             className="font-['Space_Grotesk',sans-serif] text-[18vw] font-light italic leading-[0.82] tracking-[-0.07em] text-white md:text-[15vw]"
           >
-            ONLINE
+            CERTO
           </h1>
         </div>
       </div>
@@ -111,7 +111,7 @@ const Hero = () => {
           data-hero-fade
           className="flex items-center gap-2 text-xs font-medium uppercase tracking-[0.18em] text-white"
         >
-          Personal Trainer
+          Biomécanica & Saúde
           <span className="h-px w-6 bg-[#E63946]" />
         </span>
 
@@ -119,13 +119,13 @@ const Hero = () => {
           data-hero-fade
           className="text-xs font-medium uppercase tracking-[0.18em] text-gray-300"
         >
-          Definição / Ganho / Resultado
+          Ciéncia / Força / Resultado
         </span>
       </div>
 
       <div className="absolute inset-0 z-20 flex items-center justify-center pointer-events-none">
         <a
-  href="https://wa.me/5522997118941?text=Ola%20Ruan%21%20Gostaria%20de%20saber%20mais%20sobre%20sua%20consultoria%20online."
+  href="https://wa.me/5554992352599?text=Ola%20Alex%21%20Gostaria%20de%20saber%20mais%20sobre%20sua%20consultoria%20de%20treinamento%20e%20saude."
   target="_blank"
   rel="noreferrer"
   data-hero-fade

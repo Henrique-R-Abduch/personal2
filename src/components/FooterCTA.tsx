@@ -72,13 +72,13 @@ const FooterCTA = () => {
             <span className="text-xs font-medium uppercase tracking-[0.22em] text-gray-500">
               Contato
             </span>
-            <a href="https://www.instagram.com/ruanrubenspersonal/" target="_blank" rel="noreferrer" className="text-xs text-gray-400 transition-colors hover:text-white">
+            <a href="https://www.instagram.com/alexdurao.personal/" target="_blank" rel="noreferrer" className="text-xs text-gray-400 transition-colors hover:text-white">
               Instagram
             </a>
-            <a href="https://wa.me/5522997118941" target="_blank" rel="noreferrer" className="text-xs text-gray-400 transition-colors hover:text-white">
+            <a href="https://wa.me/5554992352599" target="_blank" rel="noreferrer" className="text-xs text-gray-400 transition-colors hover:text-white">
               WhatsApp
             </a>
-            <a href="https://www.instagram.com/ruanrubenspersonal/" target="_blank" rel="noreferrer" className="text-xs text-gray-400 transition-colors hover:text-white">
+            <a href="https://www.instagram.com/alexdurao.personal/" target="_blank" rel="noreferrer" className="text-xs text-gray-400 transition-colors hover:text-white">
               YouTube
             </a>
           </div>
@@ -88,11 +88,11 @@ const FooterCTA = () => {
               Método
             </span>
             <p className="text-xs text-gray-400">
-              Avaliação
+              Biomecânica
               <br />
               Treino
               <br />
-              Resultado
+              Saúde
             </p>
           </div>
 
@@ -100,8 +100,8 @@ const FooterCTA = () => {
             <span className="text-xs font-medium uppercase tracking-[0.22em] text-gray-500">
               Contato
             </span>
-            <a href="https://wa.me/5522997118941" target="_blank" rel="noreferrer" className="text-xs text-gray-400 transition-colors hover:text-white">
-              +55 22 99711-8941
+            <a href="https://wa.me/5554992352599" target="_blank" rel="noreferrer" className="text-xs text-gray-400 transition-colors hover:text-white">
+              +55 54 9235-2599
             </a>
             <p className="text-xs text-gray-500">
               São Paulo, SP
@@ -113,7 +113,7 @@ const FooterCTA = () => {
               © 2026
             </span>
             <div className="text-[10px] uppercase tracking-[0.22em] text-gray-600 md:text-xs">
-              Ruan Rubens
+              Alex Durao
             </div>
           </div>
         </div>

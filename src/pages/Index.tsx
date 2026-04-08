@@ -50,15 +50,15 @@ const Index = () => {
                     </div>
 
                     <h3 className="font-['Space_Grotesk',sans-serif] text-xl font-medium tracking-tight text-white">
-                      Ruan Rubens
+                      Alex Durao
                     </h3>
 
                     <div className="mt-4 space-y-3">
                       <p className="text-sm leading-relaxed text-gray-400">
-                        Personal Trainer especializado em consultoria online e definição. Curador de treinos personalizados para milhares de alunos.
+                        Consultor Online de Treinamento baseado em Biomecânica e Ciência. Pós-graduado em Biomecânica, Cinesiologia e Psicopatologia da Saúde.
                       </p>
                       <p className="text-sm leading-relaxed text-gray-400">
-                        5000+ alunos em todo Brasil | Planos a partir de R$50 | Suporte 24/7 no WhatsApp.
+                        Consultoria online | Treino 100% personalizado | Suporte 24/7 com fundamentação científica.
                       </p>
                     </div>
                   </div>
@@ -68,7 +68,7 @@ const Index = () => {
 
             <div className="lg:col-span-8 lg:col-start-5">
               <ScrollScrubText
-                text="Mais de 5000 alunos em todo Brasil ficando mais fortes e definidos com consultoria séria e acessível."
+                text="Consultoria online baseada em ciência. Biomecânica precisa gera resultados duradouros. Seu treino é pessoal."
                 className="font-['Space_Grotesk',sans-serif] max-w-7xl text-5xl font-medium leading-[0.98] tracking-[-0.04em] md:text-7xl lg:text-[5.8rem] xl:text-[6.6rem]"
               />
             </div>
